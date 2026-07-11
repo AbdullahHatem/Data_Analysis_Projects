@@ -1,2 +1,3 @@
-# Retail_project
-This project analyzes retail store sales data to identify trends in revenue, regions, customer behavior, product performance, and profitability. Using Python, SQL, and Power BI, the project includes data cleaning, analysis, and interactive dashboards to uncover business insights and support data-driven decisions.
+# Data Analysis Projects
+
+This repository contains my data analysis projects, showcasing my skills in data cleaning, exploration, visualization, and business intelligence. Each project focuses on solving real-world problems by transforming raw datasets into meaningful insights using tools such as Python, SQL, and Power BI. The projects include interactive dashboards, analytical reports, and data-driven recommendations designed to support better decision-making.
