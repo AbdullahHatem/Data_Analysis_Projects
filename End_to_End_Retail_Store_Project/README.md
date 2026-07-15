@@ -237,15 +237,15 @@ Analyzes:
 
 End_to_End_Retail_Store_Project
 │
-├── PowerBi_screen_shots/
-│ ├── Executive_dashboard.png
-│ ├── Sales_performance.png
-│ ├── Customer_insights.png
-│ ├── Product_insight.png
-│ └── Time_analysis.png
+├── PowerBi_screen_shots
+│   ├── 1. Executive_dashboard.png
+│   ├── 2. Sales_performance.png
+│   ├── 3. Customer_insights.png
+│   ├── 4. Product_insight.png
+│   └── 5. Time_analysis.png
 │
-├── archive/
-│ └── Sample - Superstore.csv
+├── archive
+│   └── Sample - Superstore.csv
 │
 ├── Insights.sql
 ├── buildingSchema.sql
