@@ -234,6 +234,7 @@ Analyzes:
 ---
 
 # Repository Structure
+
 End_to_End_Retail_Store_Project
 │
 ├── PowerBi_screen_shots/
