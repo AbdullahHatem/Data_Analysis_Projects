@@ -235,6 +235,9 @@ Analyzes:
 
 # Repository Structure
 
+## Repository Structure
+
+```text
 End_to_End_Retail_Store_Project
 │
 ├── PowerBi_screen_shots
@@ -253,6 +256,7 @@ End_to_End_Retail_Store_Project
 ├── retail_dashboard.pbix
 ├── retail_project.ipynb
 └── README.md
+```
 
 ---
 
