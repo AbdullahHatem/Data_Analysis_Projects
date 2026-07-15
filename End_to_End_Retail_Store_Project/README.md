@@ -51,9 +51,7 @@ The original dataset was cleaned and transformed before being used for analysis.
 Used for data preparation and exploratory analysis:
 
 - Pandas
-- NumPy
-- Matplotlib
-- Seaborn
+- Pandas Matplotlib
 - Jupyter Notebook
 
 Tasks performed:
